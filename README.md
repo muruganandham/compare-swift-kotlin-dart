@@ -1,1 +1,4 @@
-# compare-swift-kotlin-dart
+|                 Area                           |                Swift                           |                  Kotlin                        |                   Dart                         |                      React                     |
+| :--                                            | :--                                            | :--                                            | :--                                            | :--                                            |
+| Variable declaration                           | `var name = "Bob"`                             |  `var name = 'Bob';`                           | `var name = 'Bob';` OR `String name = 'Bob';`  |  `var name = "John";` OR `let name = "John";`  |
+| Constant declaration                           | `let name = "Bob"`                             |  `val name = "Bob"`                            |                                                |  `const name = "John";`                        |
